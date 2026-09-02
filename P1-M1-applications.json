@@ -1,0 +1,17 @@
+[
+    {
+        "company": "MSP A Co.",
+        "role": "Sr. Solutions Engineer",
+        "status": "Applied"
+    },
+    {
+        "company": "MSP B Co.",
+        "role": "Sales Engineer",
+        "status": "Recruiter's Screening"
+    },
+    {
+        "company": "MSP X Co.",
+        "role": "Solutions Architect",
+        "status": "Rejected"
+    }
+]

@@ -1,4 +1,4 @@
-# 5. Dictionaries Create a dictionary representing one job application:
+# 5. DictionariesCreate a dictionary representing one job application:
 
 # python
 # application = {
