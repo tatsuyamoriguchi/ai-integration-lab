@@ -4,3 +4,7 @@ __pycache__/
 *.pyc
 ModalFlo-AI-Experiment/.env
 .DS_Store
+job_applications.csv
+job_applications_updated.csv
+job_applications_updated.numbers
+Claude.rtf
